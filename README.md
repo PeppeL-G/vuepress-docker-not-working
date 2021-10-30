@@ -33,5 +33,3 @@ Looking at the last two lines in the output below, VuePress should be up and run
  => => # success VuePress webpack dev server is listening at http://localhost:8080/
  => => # webpack compiled successfully
 ```
-
-The counter ()
